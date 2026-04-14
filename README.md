@@ -1,6 +1,6 @@
 # Aize Igbinakenzua
 
-Software developer building products across iOS, web, and backend. I like shipping small tools, tightening the UX, and learning from real usage instead of treating repos like demos.
+Software developer building products across iOS, web, and backend. I like shipping small tools, improving the UX, and learning from how people actually use them.
 
 ## Selected projects
 
@@ -10,9 +10,9 @@ Software developer building products across iOS, web, and backend. I like shippi
 
 ## What I am focused on now
 
-- cleaning up public repos so they read like real product work
-- improving iOS architecture and SwiftUI execution
-- building small tools where AI helps with structured tasks instead of replacing the whole product
+- cleaning up public repos so they are easier to read
+- improving iOS architecture and SwiftUI code
+- building small tools that use AI for narrow, structured tasks
 
 ## Contact
 
