@@ -1,16 +1,20 @@
-## Hi there 👋
+# Aize Igbinakenzua
 
-<!--
-**ize202/ize202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build iOS and full-stack product experiments with Swift, TypeScript, and AI-assisted workflows. I like shipping small tools, tightening the UX, and learning from real usage instead of treating repos like demos.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Nervespace](https://github.com/ize202/Nervespace) - SwiftUI iOS app for routines, plans, progress tracking, and account sync
+- [SlipsharkAI](https://github.com/ize202/SlipsharkAI) - FastAPI sports research backend that combines OpenAI with Exa search
+- [Excel2Calendar](https://github.com/ize202/my-calendar-app) - Next.js utility that turns spreadsheet schedules into downloadable ICS files
+
+## What I am focused on now
+
+- cleaning up public repos so they read like real product work
+- improving iOS architecture and SwiftUI execution
+- building small tools where AI helps with structured tasks instead of replacing the whole product
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/aize](https://www.linkedin.com/in/aize/)
+- Email: [aizeakenzua@gmail.com](mailto:aizeakenzua@gmail.com)
