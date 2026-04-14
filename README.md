@@ -1,12 +1,12 @@
 # Aize Igbinakenzua
 
-I build iOS and full-stack product experiments with Swift, TypeScript, and AI-assisted workflows. I like shipping small tools, tightening the UX, and learning from real usage instead of treating repos like demos.
+Software developer building products across iOS, web, and backend. I like shipping small tools, tightening the UX, and learning from real usage instead of treating repos like demos.
 
 ## Selected projects
 
 - [Nervespace](https://github.com/ize202/Nervespace) - SwiftUI iOS app for routines, plans, progress tracking, and account sync
 - [SlipsharkAI](https://github.com/ize202/SlipsharkAI) - FastAPI sports research backend that combines OpenAI with Exa search
-- [Excel2Calendar](https://github.com/ize202/my-calendar-app) - Next.js utility that turns spreadsheet schedules into downloadable ICS files
+- [Excel2Calendar](https://github.com/ize202/excel2calendar) - Next.js utility that turns spreadsheet schedules into downloadable ICS files
 
 ## What I am focused on now
 
