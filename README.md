@@ -14,4 +14,3 @@ Most of my current product work is private. These repositories are the clearest 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/aize/)
-- [Email](mailto:aizeakenzua@gmail.com)
