@@ -1,20 +1,17 @@
 # Aize Igbinakenzua
 
-Software developer building products across iOS, web, and backend. I like shipping small tools, improving the UX, and learning from how people actually use them.
+I build iOS apps and small web and backend tools. My current Computer Science specialization is cloud computing, so I am spending more time on deployment, backend systems, and the infrastructure behind the products I build.
 
 ## Selected projects
 
-- [Nervespace](https://github.com/ize202/Nervespace) - SwiftUI iOS app for routines, plans, progress tracking, and account sync
-- [SlipsharkAI](https://github.com/ize202/SlipsharkAI) - FastAPI sports research backend that combines OpenAI with Exa search
-- [Excel2Calendar](https://github.com/ize202/excel2calendar) - Next.js utility that turns spreadsheet schedules into downloadable ICS files
+- [Nervespace](https://github.com/ize202/Nervespace): SwiftUI app for guided routines, plans, progress tracking, and account sync
+- [Augmented Physics](https://github.com/ize202/interactive-physics): research prototype that turns selected PDF diagrams into Matter.js simulations
+- [SlipsharkAI](https://github.com/ize202/SlipsharkAI): FastAPI sports research backend with Exa search and streamed responses
+- [Excel2Calendar](https://github.com/ize202/excel2calendar): Next.js tool that converts spreadsheet schedules into downloadable ICS files
 
-## What I am focused on now
-
-- cleaning up public repos so they are easier to read
-- improving iOS architecture and SwiftUI code
-- building small tools that use AI for narrow, structured tasks
+Most of my current product work is private. These repositories are the clearest public examples of what I have built.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/aize](https://www.linkedin.com/in/aize/)
-- Email: [aizeakenzua@gmail.com](mailto:aizeakenzua@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aize/)
+- [Email](mailto:aizeakenzua@gmail.com)
