@@ -12,9 +12,9 @@ actually use.
 A SwiftUI routine app with 20 exercises, timed sessions, local history, goals,
 bookmarks, and reminders. It stores its data on the device and has 40 tests.
 
-[Screenshots](https://github.com/ize202/Nervespace#screenshots) ·
-[28-second demo](https://github.com/ize202/Nervespace#demo) ·
-[Architecture](https://github.com/ize202/Nervespace#architecture)
+[Screenshots](https://github.com/ize202/Nervespace/blob/main/README.md#screenshots) ·
+[Demo](https://github.com/ize202/Nervespace/blob/main/README.md#demo) ·
+[Architecture](https://github.com/ize202/Nervespace/blob/main/README.md#architecture)
 
 ### [SlipsharkAI](https://github.com/ize202/SlipsharkAI)
 
@@ -23,8 +23,8 @@ Redis, and server-sent events. It decides when a question needs a search,
 gathers sources, and streams the answer. The repo has 150 tests and a full
 Docker check.
 
-[Demo output](https://github.com/ize202/SlipsharkAI#demo) ·
-[Architecture](https://github.com/ize202/SlipsharkAI#architecture) ·
-[API](https://github.com/ize202/SlipsharkAI#api)
+[Demo output](https://github.com/ize202/SlipsharkAI/blob/main/README.md#demo) ·
+[Architecture](https://github.com/ize202/SlipsharkAI/blob/main/README.md#architecture) ·
+[API](https://github.com/ize202/SlipsharkAI/blob/main/README.md#api)
 
 [LinkedIn](https://www.linkedin.com/in/aize/)
