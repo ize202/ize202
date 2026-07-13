@@ -1,14 +1,30 @@
-# Aize Igbinakenzua
+# I like building the whole product.
 
-I build iOS apps and backend tools. I'm currently focused on cloud computing, deployment, and the infrastructure behind them.
+I started with iOS and mobile apps. Now I'm specializing in cloud computing and
+spending more time on APIs, deployment, data, and the infrastructure that keeps
+a product running. I still care most about making something people can
+actually use.
 
-## Selected projects
+## Projects I keep public
 
-- [Nervespace](https://github.com/ize202/Nervespace): a local-first SwiftUI app for guided routines. It includes plans, reminders, history, and progress tracking. [Screenshots](https://github.com/ize202/Nervespace#screenshots) · [Architecture](https://github.com/ize202/Nervespace#architecture) · [Demo](https://github.com/ize202/Nervespace#demo)
-- [SlipsharkAI](https://github.com/ize202/SlipsharkAI): a FastAPI sports research service. It validates requests, searches Exa, uses OpenAI to synthesize an answer, and streams text with source links. [Architecture](https://github.com/ize202/SlipsharkAI#architecture) · [Demo](https://github.com/ize202/SlipsharkAI#demo)
+### [Nervespace](https://github.com/ize202/Nervespace)
 
-Most of my current product work is private, so these are the two public repos that best show how I work.
+A SwiftUI routine app with 20 exercises, timed sessions, local history, goals,
+bookmarks, and reminders. It stores its data on the device and has 40 tests.
 
-## Contact
+[Screenshots](https://github.com/ize202/Nervespace#screenshots) ·
+[28-second demo](https://github.com/ize202/Nervespace#demo) ·
+[Architecture](https://github.com/ize202/Nervespace#architecture)
 
-- [LinkedIn](https://www.linkedin.com/in/aize/)
+### [SlipsharkAI](https://github.com/ize202/SlipsharkAI)
+
+The backend from a sports research app I built. It uses FastAPI, OpenAI, Exa,
+Redis, and server-sent events. It decides when a question needs a search,
+gathers sources, and streams the answer. The repo has 150 tests and a full
+Docker check.
+
+[Demo output](https://github.com/ize202/SlipsharkAI#demo) ·
+[Architecture](https://github.com/ize202/SlipsharkAI#architecture) ·
+[API](https://github.com/ize202/SlipsharkAI#api)
+
+[LinkedIn](https://www.linkedin.com/in/aize/)
