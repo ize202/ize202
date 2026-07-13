@@ -1,15 +1,13 @@
 # Aize Igbinakenzua
 
-I build iOS apps and small web and backend tools. My current Computer Science specialization is cloud computing, so I am spending more time on deployment, backend systems, and the infrastructure behind the products I build.
+I build iOS apps and backend tools. I'm currently focused on cloud computing, deployment, and the infrastructure behind them.
 
 ## Selected projects
 
-- [Nervespace](https://github.com/ize202/Nervespace): SwiftUI app for guided routines, plans, progress tracking, and account sync
-- [Augmented Physics](https://github.com/ize202/interactive-physics): research prototype that turns selected PDF diagrams into Matter.js simulations
-- [SlipsharkAI](https://github.com/ize202/SlipsharkAI): FastAPI sports research backend with Exa search and streamed responses
-- [Excel2Calendar](https://github.com/ize202/excel2calendar): Next.js tool that converts spreadsheet schedules into downloadable ICS files
+- [Nervespace](https://github.com/ize202/Nervespace): a local-first SwiftUI app for guided routines. It includes plans, reminders, history, and progress tracking. [Screenshots](https://github.com/ize202/Nervespace#screenshots) · [Architecture](https://github.com/ize202/Nervespace#architecture) · [Demo](https://github.com/ize202/Nervespace#demo)
+- [SlipsharkAI](https://github.com/ize202/SlipsharkAI): a FastAPI sports research service. It validates requests, searches Exa, uses OpenAI to synthesize an answer, and streams text with source links. [Architecture](https://github.com/ize202/SlipsharkAI#architecture) · [Demo](https://github.com/ize202/SlipsharkAI#demo)
 
-Most of my current product work is private. These repositories are the clearest public examples of what I have built.
+Most of my current product work is private, so these are the two public repos that best show how I work.
 
 ## Contact
 
